@@ -97,18 +97,7 @@ p{
 
 }
 
-ul, li{
-margin: 0;
-padding: 0;
-list-style: none;
-}
 
-ul.slider{
-position: relative;
-width: 1vh;
-height: 1vh;
-
-}
 
 ul.slider li{
 position: absolute;
@@ -138,6 +127,8 @@ ul.slider li img{
     flex-direction: column;
     margin-top: 10rem;
     background-color:lightgrey;
+    font-family:Helvetica;
+    
        
 }
 #maquinitas1{
