@@ -132,23 +132,31 @@ ul.slider li img{
 }
 .consolas{
     display: flex;
-    justify-content:center;
+    justify-content:space-around;
+    flex-direction:row;
     align-items:center;
     flex-direction: column;
     margin-top: 10rem;
-    background-color:lightgrey
-   
-   
-    
+    background-color:lightgrey;
+       
+}
+#maquinitas1{
+    display: flex;
+    position: right;
+    justify-content: space-around;
+    font-family: 'Open Sans', arial;
+    font-weight: bold;
+    width: 90vh;
+    list-style: none;
+}
+#maquinitas2{
+    display: flex;
+    position: right;
+    justify-content: space-around;
+    font-family: 'Open Sans', arial;
+    font-weight: bold;
+    width: 90vh;
+    list-style: none;
 
 }
 
-h1, p {
-    
-    
-    
-    
-    
-    
-   
-}
