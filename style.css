@@ -130,3 +130,25 @@ ul.slider li img{
     list-style: none;
 
 }
+.consolas{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    margin-top: 10rem;
+    background-color:lightgrey
+   
+   
+    
+
+}
+
+h1, p {
+    
+    
+    
+    
+    
+    
+   
+}
